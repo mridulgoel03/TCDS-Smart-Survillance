@@ -1,0 +1,28 @@
+person
+bicycle
+car
+motorbike
+bus
+truck
+traffic light
+fire hydrant
+stop sign
+parking meter
+bench
+backpack
+umbrella
+handbag
+tie
+suitcase
+kite
+baseball bat
+baseball glove
+skateboard
+tennis racket
+bottle
+wine glass
+knife
+chair
+tvmonitor
+laptop
+cell phone
